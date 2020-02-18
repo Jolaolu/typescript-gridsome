@@ -1,0 +1,17 @@
+{
+  "name": "gridsome-ts",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "gridsome-plugin-typescript": "^0.4.0",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5"
+  }
+}
